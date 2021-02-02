@@ -30,3 +30,9 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsInVuaXF1ZV9uYW1l
     4. To click "Authorize" and add "Bearer " + token string;
     5. To try Authentication to use  "Get /api/Account".
     6. Should work.
+
+
+### Tools:
+    https://jwt.io/ 
+    PostMan
+    cUrl
